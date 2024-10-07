@@ -1,0 +1,1 @@
+![Metrics](/metrics.repository.svg)
